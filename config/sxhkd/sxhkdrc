@@ -29,10 +29,10 @@ super + {d,x}
 
 # Launch Applications
 super + shift + {f,n,p,t,c,v,i,x,q,k,l}
-	{firefox, \
+	{chromium, \
 	thunar, \
 	pavucontrol, \
-	telegram-desktop, \
+	Telegram, \
 	code, \
 	virtualbox, \
 	firefox --private-window, \
