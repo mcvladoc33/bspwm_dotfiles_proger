@@ -22,7 +22,7 @@ DEV_PACKAGES = [
     "bleachbit", "veracrypt", "homebank", "gtkhash", "gnome-firmware", "touche", "dconf-editor",
     "neovim", "obs-studio", "telegram-desktop", "tmux", "youtube-dl", "code", "cowsay",
     "deluge-gtk", "flameshot", "sqlitebrowser", "obsidian", "python-pip", "bpython", "ipython", "cloc",
-    "kicad", "freecad",
+    "kicad", "kicad-library", "kicad-library-3d", "freecad",
 ]
 
 AUR_PACKAGES = [
