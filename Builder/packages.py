@@ -13,7 +13,7 @@ BASE_PACKAGES = [
     "vlc", "usbutils", "picom", "networkmanager-openvpn", "alsa-plugins", "alsa-tools", "alsa-utils", "ffmpeg",
     "p7zip", "gparted", "sshfs", "openvpn", "xclip", "gpick", "wget", "ueberzug", "netctl", "light", "libreoffice",
     "breeze", "vulkan-intel", "intel-ucode", "ttf-jetbrains-mono", "ttf-jetbrains-mono-nerd", "ttf-fira-code",
-    "ttf-iosevka-nerd"
+    "ttf-iosevka-nerd", "ttf-dejavu", "ttf-liberation", "noto-fonts", "noto-fonts-cjk", "noto-fonts-emoji"
 ]
 
 DEV_PACKAGES = [
