@@ -29,8 +29,7 @@ super + {d,x}
 
 # Launch Applications
 super + shift + {o,f,n,p,t,c,v,i,x,q,k,l}
-	{
-	obsidian,\
+	{obsidian,\
 	chromium, \
 	thunar, \
 	pavucontrol, \
