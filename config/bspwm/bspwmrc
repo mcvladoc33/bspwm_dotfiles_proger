@@ -60,3 +60,8 @@ picom --config $HOME/.config/bspwm/picom_configurations/1.conf &
 # autostart
 flameshot &
 
+# tunar
+
+/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
+
+thunar --daemon &
