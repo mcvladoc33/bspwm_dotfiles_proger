@@ -13,7 +13,9 @@ BASE_PACKAGES = [
     "vlc", "usbutils", "picom", "networkmanager-openvpn", "alsa-plugins", "alsa-tools", "alsa-utils", "ffmpeg",
     "p7zip", "gparted", "sshfs", "openvpn", "xclip", "gpick", "wget", "ueberzug", "netctl", "light", "libreoffice",
     "breeze", "vulkan-intel", "intel-ucode", "ttf-jetbrains-mono", "ttf-jetbrains-mono-nerd", "ttf-fira-code",
-    "ttf-iosevka-nerd", "ttf-dejavu", "ttf-liberation", "noto-fonts", "noto-fonts-cjk", "noto-fonts-emoji"
+    "ttf-iosevka-nerd", "ttf-dejavu", "ttf-liberation", "noto-fonts", "noto-fonts-cjk", "noto-fonts-emoji", 
+    "gvfs", "gvfs-mtp", "gvfs-gphoto2", "gvfs-afc", "polkit-gnome", "thunar-volman"
+
 ]
 
 DEV_PACKAGES = [
