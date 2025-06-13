@@ -1,4 +1,4 @@
-<h1 align="center"> :herb: ZProger Build :herb: </h1>
+<h1 align="center"> :herb: Advel Build :herb: </h1>
 
 <!-- BADGES -->
 </br>
@@ -51,7 +51,7 @@
 * A very lightweight system that consumes less than 700mb of memory.
 * Automatic installation and configuration of all basic software for development.
 
-**And more features: [EN](Docs/03_all_features_and_tricks_english.md), [RU](Docs/02_all_features_and_tricks_russian.md)**
+**And more features: [EN](Docs/03_all_features_and_tricks_english.md).
 
 <table align="center">
    <tr>
@@ -71,7 +71,7 @@
 
 <!-- INSTALLATION -->
 ## :blue_book: Installation
-A guide to installing the system and graphical shell via builder: [EN](Docs/01_installing_arch_linux_with_bspwm_english.md), [RU](Docs/00_installing_arch_linux_with_bspwm_russian.md). 
+A guide to installing the system and graphical shell via builder: [EN](Docs/01_installing_arch_linux_with_bspwm_english.md).
 
 
 <!-- ERRORS -->
