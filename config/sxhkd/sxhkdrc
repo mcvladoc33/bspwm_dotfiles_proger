@@ -28,8 +28,10 @@ super + {d,x}
     {rofi -show drun,sh $HOME/bin/powermenu}
 
 # Launch Applications
-super + shift + {f,n,p,t,c,v,i,x,q,k,l}
-	{chromium, \
+super + shift + {o,f,n,p,t,c,v,i,x,q,k,l}
+	{
+	obsidian,\
+	chromium, \
 	thunar, \
 	pavucontrol, \
 	Telegram, \
